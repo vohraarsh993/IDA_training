@@ -1,0 +1,15 @@
+Creating ETL pipelines
+Data flow Diagram vs control diagram
+Get Metadata activity/lookup activity
+Copy activity
+Dataflow
+Parameterisation
+Mapping dataflow
+Change data capture
+Extracting data from API’s
+Extracting data from JSON files,SQl storage,blob storage
+Derived columns and joins
+ADF Hands on activity: extracting data from SQL Storage using lookup activity
+Azure monitoring
+Azure troubleshooting and alerts
+Azure automations

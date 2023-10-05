@@ -1,0 +1,18 @@
+Azure Synapse Analytics : Used To Create ADF Services, Spark Notebooks, SQL Data Warehouse
+SQL Pool
+Serverless
+Dedicated Pool
+Spark Pool
+Data Exploration
+SQL Database
+Collate
+Common Table Expression (CTE)
+View
+DWU (Data Warehousing Unit)
+Storage Node
+Compute Node
+Data Movement Service (DMS)
+Massive Parallel Processing
+Replicated Tables
+Hash Distributed Table
+Implementing Partitions For An SQL Data Warehouse

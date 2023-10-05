@@ -1,0 +1,17 @@
+TOPICS COVERED:
+What is Data?
+Types of Data
+What is Database?
+What does data engineer do?
+Normalization and Denormalization
+Normalization Forms (1NF,2NF,3NF,BCNF)
+Dependencies (Partial, Transitive, Functional)
+Attribute Keys (Candidate, Primary, Foreign, Super)
+Anomalies- Insert, Update, Delete
+Data Modelling and ER Diagram
+Activity- To make an ER diagram for ordering a book from online store, perform normalization
+Dimensional Modelling
+Fact Table and Dimension Table
+Star Schema & Snowflake Schema
+Activity- Implement the concepts of Star and Snowflake schema by drawing respective diagrams
+SCD(slowly changing dimension)

@@ -1,0 +1,44 @@
+SQL Joins:
+-- Self
+-- Inner
+-- Outer
+-- Right
+-- Left
+-- Cross
+
+ 
+
+SQL Queries:
+-- Select
+-- Where
+-- Union
+-- etc.
+-- Hands-on
+
+ 
+
+SQL Sub-Query:
+-- Hands-on
+
+ 
+
+What is a View:
+-- Used for data confidentiality. 
+--Shows table to the user without all the access rights.
+
+ 
+
+What is a Stored Procedure:
+-- It is a prepared SQL code that can be saved so that it can be used again and again.
+-- Can also pass parameters to the stored procedure.
+
+ 
+
+What is a Function:
+-- They are database objects that perform a specific task and return a value.
+-- They can accept input parameters and perform actions.
+
+ 
+
+Azure SQL:
+-- Hands-on tasks.

@@ -1,0 +1,31 @@
+What is Data?
+structured,semi structured,unstructured
+Big data:
+4 V's of big data - velocity,veracity,volume,variety
+batch/stream processing
+Extract,load and transform(ETL) pipelines
+how to process big data? Parallel distributed processing - via hadoop,kafka,PySpark
+Data Warehouse:
+ Save data as object
+ Structured Data
+ Dimension modeling 
+ Fixed schema
+ ACID - atomicity,consistency,durability,Isolation
+Datalake:
+ structured,semi structured,unstructured
+ Acid properties are not there 
+ Flexible schema
+Data Lakehouse:
+combination of data warehouse and datalake, choosing the better parts.
+ACID properties are involved, works for all types of data.
+Sandbox activity 
+Cloud computing basics:
+types  : public/private/hybrid
+IaaS/PaaS/SaaS
+
+
+AZURE SERVICES (FUNDAMENTALS):
+Uses
+region pairs(backup servers)
+availability zones - protects servers/datacenters during downtime
+
